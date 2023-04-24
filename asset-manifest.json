@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.3cee343a.css",
-    "main.js": "/my-app/static/js/main.d8bc294b.js",
-    "static/js/787.67b99310.chunk.js": "/my-app/static/js/787.67b99310.chunk.js",
-    "static/media/helvetica-neu.ttf": "/my-app/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/my-app/static/media/logo_sub.19f3ab25ab15fd848b30.png",
-    "static/media/LaBelleAurore.woff2": "/my-app/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/my-app/static/media/logo-s.bfc9f81846bda5218dab.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/my-app/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/my-app/index.html",
-    "main.3cee343a.css.map": "/my-app/static/css/main.3cee343a.css.map",
-    "main.d8bc294b.js.map": "/my-app/static/js/main.d8bc294b.js.map",
-    "787.67b99310.chunk.js.map": "/my-app/static/js/787.67b99310.chunk.js.map"
+    "main.css": "/react-portafolio/static/css/main.5a4208b8.css",
+    "main.js": "/react-portafolio/static/js/main.f307dde7.js",
+    "static/js/787.67b99310.chunk.js": "/react-portafolio/static/js/787.67b99310.chunk.js",
+    "static/media/helvetica-neu.ttf": "/react-portafolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub.png": "/react-portafolio/static/media/logo_sub.19f3ab25ab15fd848b30.png",
+    "static/media/LaBelleAurore.woff2": "/react-portafolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/react-portafolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-portafolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-portafolio/index.html",
+    "main.5a4208b8.css.map": "/react-portafolio/static/css/main.5a4208b8.css.map",
+    "main.f307dde7.js.map": "/react-portafolio/static/js/main.f307dde7.js.map",
+    "787.67b99310.chunk.js.map": "/react-portafolio/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cee343a.css",
-    "static/js/main.d8bc294b.js"
+    "static/css/main.5a4208b8.css",
+    "static/js/main.f307dde7.js"
   ]
 }
